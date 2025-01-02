@@ -16,7 +16,7 @@ Lessonly is a virtual lesson planner for teachers. It features a calendar-based 
 Ensure you have the following installed:
 
 ### Node.js
-Install the latest version of Node.js (recommended >= 16):
+Install the latest version of Node.js :
 ```bash
 # On Ubuntu/Debian
 curl -fsSL https://deb.nodesource.com/setup_16.x | sudo -E bash -
@@ -132,10 +132,10 @@ Once both are running, open your browser and go to http://localhost:5173
 ## Additional Information
 
 ### Tools Used
-- **Vite & Tailwind CSS** – Frontend UI and styling.
-- **Node.js** – For managing frontend dependencies and builds.
-- **Python & FastAPI** – Backend for user authentication, note retrieval, and AI integration.
-- **OpenAI API** – AI model to generate lesson plans based on teacher-supplied topics/grades.
+- **Vite & Tailwind CSS** 
+- **Node.js** 
+- **Python & FastAPI** 
+- **OpenAI API**
 
 ### Resources Used
 - **FastAPI Docs**
