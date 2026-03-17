@@ -1,4 +1,4 @@
-# MOSA-Fall-Hackathon-2024
+# MOSA-Hackathon
 
 **Lessonly**
 
